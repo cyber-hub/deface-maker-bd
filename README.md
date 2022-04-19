@@ -7,7 +7,7 @@
  pkg install python2
 ```
 ```
- git clone https://github.com/darkhunter141/Deface-Page-Generator
+ git clone https://github.com/rasheedsiam/deface-maker-bd.git
 ```
 ```
  cd Deface-Page-Generator
@@ -18,12 +18,12 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone https://github.com/darkhunter141/Deface-Page-Generator && cd Deface-Page-Generator && python2 deface.py
+pkg install python2 && git clone https://github.com/rasheedsiam/deface-maker-bd.git && cd deface-maker-bd && python2 deface.py
 
 ```
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <br>
 <h3><b><i>🤠 Editor :</i></b></h3>
-<li> <i><a href="https://www.facebook.com/aalrasheedsiam">Abdullah Al Rasheed</a></i></li>
-<li>  <i><a href="https://www.github.com/rasheedsiam/">Abdullah Al Rasheed</a></i></li>
+<li> <i><a href="https://www.facebook.com/aalrasheedsiam">Facebook</a></i></li>
+<li>  <i><a href="https://www.github.com/rasheedsiam/">Github</a></i></li>
